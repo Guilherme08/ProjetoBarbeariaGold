@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lan="pt-br">
 <head>
-	<meta charset="UTF-8"/>
+	<meta charset="UTF-9"/>
 	<title>Sistema de Gerenciamento</title>
 </head>
 <body>
