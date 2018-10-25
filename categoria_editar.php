@@ -2,7 +2,7 @@
 <html lan="pt-br">
 <head>
 	<meta charset="UTF-8"/>
-	<title>Sistema de Gerencia</title>
+	<title>Sistema de Gerenciamento</title>
 </head>
 
 <body>
