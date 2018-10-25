@@ -1,10 +1,9 @@
 <!DOCTYPE html>
 <html lan="pt-br">
 <head>
-	<meta charset="UTF-7"/>
+	<meta charset="UTF-9"/>
 	<title>Sistema de Gerenciamento</title>
 </head>
-<h1>Meu Rey</h1>
 <body>
 <div id="interface">
 
